@@ -1,2 +1,6 @@
-# A-project-that-can-tell-the-age-difference
-A project that can tell the age difference
+code
+
+a=int(input(age:))
+b=int(input(age2:))
+
+print(a-b)
